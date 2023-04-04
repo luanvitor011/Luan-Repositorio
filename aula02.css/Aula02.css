@@ -1,0 +1,24 @@
+
+
+
+
+
+
+body{
+    background-color: rgb(30, 0, 85);color: rgb(135, 83, 255);
+}
+h1{
+    background-color: blueviolet ;border-style:dotted; color: rgb(255, 0, 255);
+    font-family: 'Alkatra', cursive; 
+    text-shadow: 3px 3px 5px;color:rgb(255, 0, 255);
+    text-align: center;
+    
+}
+h2{
+    background-color: blueviolet;color: rgb(255, 0, 255);
+    font-family: 'Alkatra', cursive;
+}
+p{
+    text-align: justify;
+    text-indent: 35px;
+}
